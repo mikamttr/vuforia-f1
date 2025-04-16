@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mercedes-f1-logo" size="30.000000 18.750000" />
+    <ImageTarget name="ferrari-f1-logo" size="30.000000 20.000000" />
+    <ImageTarget name="red-bull-racing-logo" size="30.000000 18.750000" />
+    <ImageTarget name="mclaren-logo" size="30.000000 18.750000" />
+  </Tracking>
+</QCARConfig>
