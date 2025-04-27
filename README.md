@@ -20,7 +20,7 @@ The F1 team logos for image dectection are available in "images" folder on this 
 ![no image detected](https://github.com/user-attachments/assets/ac98c16b-da31-4479-81a7-1210bf217f6f)
 
 
-- **Model Interaction**  
+**Model Interaction**  
 
 When a logo is detected, a virtual joystick (powered by the **Joystick Pack**) appears, allowing users to rotate and inspect the 3D car models.
 Tap the "Information" button to reveal a panel containing detailed facts and background information about the selected F1 team.
@@ -46,4 +46,4 @@ Tap the "Information" button to reveal a panel containing detailed facts and bac
 
 ## License
 
-This project is intended for educational and non-commercial use.  
+This project is intended for educational and non-commercial use.
